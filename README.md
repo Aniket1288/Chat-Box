@@ -16,6 +16,9 @@ project/
     
 ```
 
+## 📸 Screenshot
+![NexusChat UI](assets/screenshot.png)
+
 ---
 
 ## ⚙️ Tech Stack
